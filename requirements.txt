@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pillow
+requests
+httpx
+python-multipart
+celery
+redis
